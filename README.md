@@ -1,2 +1,4 @@
 # ECG_LSTM
-run the "dataProcessing.py" file
+run command:
+   
+   python dataProcessing.py
